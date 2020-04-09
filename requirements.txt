@@ -68,7 +68,7 @@ qtaf==5.4.18
 query-string==2018.11.20
 rarfile==3.0
 request==2018.11.20
-requests==2.18.4
+requests==2.20.0
 robotframework==3.1.1
 robotframework-requests==0.5.0
 robotframework-ride==1.7.3.1
