@@ -24,7 +24,7 @@ django-import-export==1.0.0
 django-rest-swagger==2.1.2
 django-reversion==2.0.13
 django-suit==2.0a1
-djangorestframework==3.7.7
+djangorestframework==3.9.1
 docutils==0.14
 et-xmlfile==1.0.1
 get==2018.11.19
