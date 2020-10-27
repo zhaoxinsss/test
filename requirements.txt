@@ -11,7 +11,7 @@ colorama==0.4.1
 comtypes==1.1.7
 coreapi==2.3.3
 coreschema==0.0.4
-cryptography==2.5
+cryptography==3.2
 defusedxml==0.6.0
 demjson==2.2.4
 diff-match-patch==20181111
